@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 案例库（个人资产，不随仓库分发）
+cases/
+
+# 环境变量与密钥
+.env
+.env.*
+*.key
+*.pem
+
+# 临时文件
+*.tmp
+*.log
